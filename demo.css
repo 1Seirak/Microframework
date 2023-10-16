@@ -1,0 +1,8 @@
+/*regles additionnelles juste pour la demo*/
+
+.ligne {
+    border: 1px dotted 
+}
+.colonne {
+    border: 1px solid black
+}

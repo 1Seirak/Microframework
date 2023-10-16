@@ -1,0 +1,9 @@
+.ligne {
+    display:flex; 
+}
+
+.colonne {
+    flex-basis: 100%;
+}
+
+
